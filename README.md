@@ -3,7 +3,7 @@ Microcontroller/Arduino_DUE software for Buffalo III 38 Pro DAS
 Author: Poninski Tomasz
 Date: 2019-05-07
 
-Created and compiled in Atom + PlatformIO (Arduino DUE)
+Created and compiled in VSCode / Atom + PlatformIO (Arduino DUE)
 
 C++/C scalable software written for Arduino DUE, but adaptable to any microcontroller. 
 The software is writte the way its easily scalable, the core of DAC class is based on TwistedPairAudio firmware for ES 9038 Pro DAC. 
